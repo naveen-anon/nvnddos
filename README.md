@@ -61,7 +61,6 @@ nvnddos/
 ├── nvnddos.py
 ├── requirements.txt
 ├── README.md
-└── assets/
 ``
 ### 🛡️ Legal Disclaimer
 This project is created strictly for educational purposes and authorized penetration testing.
